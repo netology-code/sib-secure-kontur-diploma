@@ -50,13 +50,13 @@
 **Важно**: если в части документации нужно рассматривать только само приложение, то в части поиска слабостей вы можете рассматривать и окружение приложения (ОС и сервисы).
 
 <details>
-<summary>Подсказка</summary>
+<summary>Подсказка 1</summary>
 
 Попробуйте пройтись по [CWE TOP 25 2020](https://cwe.mitre.org/top25/archive/2020/2020_cwe_top25.html), не обращая внимания на то, что мы ещё не прходили (SQL, CSRF, XML и т.д.).
 </details>
 
 <details>
-<summary>Подсказка</summary>
+<summary>Подсказка 2</summary>
 
 Перечень мер защиты, которые необходимо реализовать приведён в [21 приказе ФСТЭК России](https://fstec.ru/dokumenty/vse-dokumenty/prikazy/prikaz-fstek-rossii-ot-18-fevralya-2013-g-n-21)
 </details>
